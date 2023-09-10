@@ -18,9 +18,9 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://www.sctv.co.id/_nuxt/img/site-logo.43a458b.png" group-title="1. NASIONAL",SCTV
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://www.rctiplus.com/live-assets/image/elements/svgv3/logo-nav-rcti.svg" group-title="1. NASIONAL",RCTI
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://www.rctiplus.com/live-assets/image/elements/svgv3/logo-nav-rcti.svg" group-title="1. NASIONAL",
 [Referer=https://www.rctiplus.com/]
-https://1d-rcti.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8?auth_key=1694367878-7deffafc6750110c4725acdf3f6ad423-0-af4ee187bfd41aa9d5ab05bf4b5e19f5
+RCTI https://1d-rcti.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8?auth_key=1694367878-7deffafc6750110c4725acdf3f6ad423-0-af4ee187bfd41aa9d5ab05bf4b5e19f5
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://www.sctv.co.id/_nuxt/img/site-logo.43a458b.png" group-title="1. NASIONAL",GTV
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
