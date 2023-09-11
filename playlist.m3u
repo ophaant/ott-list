@@ -56,11 +56,11 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1694459634/ei/k
 
 #EXTINF:-15 tvg-id="INEWS.id" tvg-name="INEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="1. NASIONAL",15. INEWS
 #EXTHTTP:{"Referer":"https://www.rctiplus.com/"}
-https://1d-inews.rctiplus.id/inews-sdi-avc1_800000=8-mp4a_96000=1.m3u8?auth_key=1694414388-ae13a08c153d4581527a481b67651e11-0-473eb05b826eb83c8216f08fd699119d
+http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 
 #EXTINF:-16 tvg-id="KOMPAS.id" tvg-name="KOMPAS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png" group-title="1. NASIONAL",16. KOMPAS
 #EXTHTTP:{"Referer":"","User-Agent":""}
-http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
+http://210.210.155.37/qwr9ew/s/s104/index.m3u8
 
 #EXTINF:-17 tvg-id="JAKTV.id" tvg-name="JAKTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_113.jpg" group-title="1. NASIONAL",17. JAKTV
 #EXTHTTP:{"Referer":"","User-Agent":""}
