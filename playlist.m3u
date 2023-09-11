@@ -23,13 +23,13 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.
 https://1d-rcti.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8?auth_key=1694431772-0fd408fe1f08525de404a68a36d23f8b-0-cf64d719df2db123d0b5f7ef1a1123e5
 
 #EXTINF:-8 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://client.okezone.com/testing/farid/okezonetv/desktop/asset/img/tv/gtv.png" group-title="1. NASIONAL",GTV
-https://1d-gtv.rctiplus.id/gtv-sdi-avc1_800000=9-mp4a_96000=1.m3u8?auth_key=1694414156-fd57c297919ae3fb1f37206512b4b0c5-0-54d8a11f58bf79ef7c329b4e204f72b5
+https://1d-gtv.rctiplus.id/gtv-sdi-avc1_800000=9-mp4a_96000=1.m3u8?auth_key=1694414326-ebf7a1cbce2c5dbf582e42c63795d798-0-7daaccac9a322b0c1a25b17f799fa02b
 
 #EXTINF:-9 tvg-id="MNC.id" tvg-name="MNC" tvg-logo="https://client.okezone.com/testing/farid/okezonetv/desktop/asset/img/tv/mnctv.png" group-title="1. NASIONAL",MNC TV
 https://linier2.rctiplus.id/xIWxIAdrlGg2.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMjMwODlfNDVjZDNhZjYxOWE1YmZhZDY5M2MifQ.eyJpcCI6ZmFsc2UsImNvIjpmYWxzZSwiY3R5IjpmYWxzZSwicmVnIjpmYWxzZSwic3NuIjp0cnVlLCJleHAiOjE2OTQ0MzIwODYsImhlYWRlcnMiOltdLCJxcyI6W10sImludHNpZyI6IlN5Z3doVG03WEdtWlVxUDdzR0N2ZVVnRjNyY2tGNW55cVlyTE1uTnNSSEEiLCJwYXRocyI6WyIvIl0sImV4YyI6WyIvYWRzLyJdLCJuYmYiOjE2NDUwMDAwMDAsImlhdCI6MTY5NDM5NjA4Nn0.4Ooi_hKehVpBIP7yQx_eWe3jhJWAJS4yJTgKz2yIqZg/mnctv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
 #EXTINF:-10 tvg-id="INEWS.id" tvg-name="INEWS" tvg-logo="https://client.okezone.com/testing/farid/okezonetv/desktop/asset/img/tv/inewstv.png" group-title="1. NASIONAL",INEWS
-https://1d-inews.rctiplus.id/inews-sdi-avc1_600000=10-mp4a_96000=1.m3u8?auth_key=1694414179-73549e0bb9fd459f2840df85fd3f26f8-0-70785151dfd3ecde0d02631b90b43b60
+https://1d-inews.rctiplus.id/inews-sdi-avc1_800000=8-mp4a_96000=1.m3u8?auth_key=1694414388-ae13a08c153d4581527a481b67651e11-0-473eb05b826eb83c8216f08fd699119d
 
 #EXTINF:-11 tvg-id="NET.id" tvg-name="NET" tvg-logo="https://www.sctv.co.id/_nuxt/img/site-logo.43a458b.png" group-title="1. NASIONAL",NET TV
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
