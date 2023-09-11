@@ -76,6 +76,6 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 #EXTINF:-20 tvg-id="MOJI.id" tvg-name="MOJI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="1. NASIONAL",20. MOJI
 #EXTHTTP:{"Referer":"","User-Agent":""}
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298550
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/298550
 
 ==== End Nasional ====
