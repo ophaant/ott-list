@@ -42,7 +42,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 #EXTINF:-12 tvg-id="METROTV.id" tvg-name="METROTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png" group-title="1. NASIONAL",12. METRO TV
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
-#EXTINF:-13 tvg-id="RTV.id" tvg-name="RTV" tvg-logo="https://static.mncnow.id/images/channel/c8369888/3fdb_r32.jpg" group-title="1. NASIONAL",13. RTV
+#EXTINF:-13 tvg-id="RTV.id" tvg-name="RTV" tvg-logo="http://www.dens.tv/images/channel-logo/22.jpg" group-title="1. NASIONAL",13. RTV
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
 #EXTINF:-14 tvg-id="TVONE.id" tvg-name="TVONE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png" group-title="1. NASIONAL",14. TVONE
@@ -58,10 +58,10 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.
 #EXTINF:-17 tvg-id="JAKTV.id" tvg-name="JAKTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_113.jpg" group-title="1. NASIONAL",17. JAKTV
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
-#EXTINF:-18 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://static.mncnow.id/images/channel/c57573a6/f784_r32.jpg" group-title="1. NASIONAL",18. TVRI
+#EXTINF:-18 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="http://www.dens.tv/images/channel-logo/17.jpg" group-title="1. NASIONAL",18. TVRI
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
-#EXTINF:-19 tvg-id="BERITASATU.id" tvg-name="BERITASATU" tvg-logo="https://static.mncnow.id/images/channel/763ae675/4ca7_r32.jpg" group-title="1. NASIONAL",19. BERITA SATU
+#EXTINF:-19 tvg-id="BERITASATU.id" tvg-name="BERITASATU" tvg-logo="http://www.dens.tv/images/channel-logo/80.jpg" group-title="1. NASIONAL",19. BERITA SATU
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
 #EXTINF:-20 tvg-id="MOJI.id" tvg-name="MOJI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="1. NASIONAL",20. MOJI
