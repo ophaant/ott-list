@@ -15,7 +15,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8|referer=htt
 #EXTINF:-4 tvg-id="CNBC Indonesia.id" tvg-name="CNBC Indonesia" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo.png" group-title="1. NASIONAL",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8|referer=https://20.detik.com/
 
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://encrypted-tbn0"tvg-chno=""group-title="INDONE_SIA 1":http-referrer="":http-user-agent="",ID: GTV
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://encrypted-tbn0" tvg-chno=""group-title="INDONE_SIA 1":http-referrer="":http-user-agent="",ID: GTV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/157578
 
 #EXTINF:-6 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://www.sctv.co.id/_nuxt/img/site-logo.43a458b.png" group-title="1. NASIONAL",SCTV
@@ -25,7 +25,7 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.
 #EXTHTTP:{"Referer":"","User-Agent":""}
 http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 
-#EXTINF:-8 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://client.okezone.com/testing/farid/okezonetv/desktop/asset/img/tv/gtv.png" group-title="1. NASIONAL",8. GTV
+#EXTINF:-8 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png" group-title="1. NASIONAL",8. GTV
 #EXTHTTP:{"Referer":"","User-Agent":""}
 http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 
