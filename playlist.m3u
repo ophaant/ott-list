@@ -30,7 +30,7 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 #EXTHTTP:{"Referer":"","User-Agent":""}
 http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 
-#EXTINF:-9 tvg-id="NET.id" tvg-name="NET" tvg-logo="https://static.mncnow.id/images/channel/b32939e5/00e6_r32.jpg" group-title="1. NASIONAL",9. NET TV
+#EXTINF:-9 tvg-id="NET.id" tvg-name="NET" tvg-logo="https://www.netmedia.co.id/desktop/images/logo_white.png" group-title="1. NASIONAL",9. NET TV
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
 #EXTINF:-10 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cnn_new.jpg" group-title="1. NASIONAL",10. CNN Indonesia
