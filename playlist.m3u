@@ -76,6 +76,6 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 #EXTINF:-20 tvg-id="MOJI.id" tvg-name="MOJI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="1. NASIONAL",20. MOJI
 #EXTHTTP:{"Referer":"","User-Agent":""}
-http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
+http://210.210.155.37/qwr9ew/s/s41/index.m3u8
 
 ==== End Nasional ====
