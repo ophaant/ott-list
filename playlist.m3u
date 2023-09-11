@@ -31,21 +31,27 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 
 #EXTINF:-9 tvg-id="NET.id" tvg-name="NET" tvg-logo="https://www.netmedia.co.id/desktop/images/logo_white.png" group-title="1. NASIONAL",9. NET TV
+#EXTHTTP:{"Referer":"","User-Agent":""}
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
 #EXTINF:-10 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cnn_new.jpg" group-title="1. NASIONAL",10. CNN Indonesia
+#EXTHTTP:{"Referer":"","User-Agent":""}
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 
 #EXTINF:-11 tvg-id="CNBC Indonesia.id" tvg-name="CNBC Indonesia" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo.png" group-title="1. NASIONAL",11. CNBC Indonesia
+#EXTHTTP:{"Referer":"","User-Agent":""}
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 
 #EXTINF:-12 tvg-id="METROTV.id" tvg-name="METROTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png" group-title="1. NASIONAL",12. METRO TV
-https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_hls_vmx/Metro-TV2-avc1_1000000=5.m3u8
+#EXTHTTP:{"Referer":"","User-Agent":""}
+https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_hls_vmx/Metro-TV2-5.m3u8
 
 #EXTINF:-13 tvg-id="RTV.id" tvg-name="RTV" tvg-logo="http://www.dens.tv/images/channel-logo/22.jpg" group-title="1. NASIONAL",13. RTV
+#EXTHTTP:{"Referer":"","User-Agent":""}
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
 #EXTINF:-14 tvg-id="TVONE.id" tvg-name="TVONE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png" group-title="1. NASIONAL",14. TVONE
+#EXTHTTP:{"Referer":"","User-Agent":""}
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
 #EXTINF:-15 tvg-id="INEWS.id" tvg-name="INEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="1. NASIONAL",15. INEWS
@@ -53,18 +59,23 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.
 https://1d-inews.rctiplus.id/inews-sdi-avc1_800000=8-mp4a_96000=1.m3u8?auth_key=1694414388-ae13a08c153d4581527a481b67651e11-0-473eb05b826eb83c8216f08fd699119d
 
 #EXTINF:-16 tvg-id="KOMPAS.id" tvg-name="KOMPAS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png" group-title="1. NASIONAL",16. KOMPAS
+#EXTHTTP:{"Referer":"","User-Agent":""}
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
 #EXTINF:-17 tvg-id="JAKTV.id" tvg-name="JAKTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_113.jpg" group-title="1. NASIONAL",17. JAKTV
+#EXTHTTP:{"Referer":"","User-Agent":""}
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
 #EXTINF:-18 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="http://www.dens.tv/images/channel-logo/17.jpg" group-title="1. NASIONAL",18. TVRI
+#EXTHTTP:{"Referer":"","User-Agent":""}
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
 #EXTINF:-19 tvg-id="BERITASATU.id" tvg-name="BERITASATU" tvg-logo="http://www.dens.tv/images/channel-logo/80.jpg" group-title="1. NASIONAL",19. BERITA SATU
+#EXTHTTP:{"Referer":"","User-Agent":""}
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
 #EXTINF:-20 tvg-id="MOJI.id" tvg-name="MOJI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="1. NASIONAL",20. MOJI
+#EXTHTTP:{"Referer":"","User-Agent":""}
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
 ==== End Nasional ====
