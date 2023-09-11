@@ -24,7 +24,7 @@ https://1d-rcti.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8?auth_key=16
 
 #EXTINF:-8 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://client.okezone.com/testing/farid/okezonetv/desktop/asset/img/tv/gtv.png" group-title="1. NASIONAL",GTV
 #EXTHTTP:{"Referer":"https://www.rctiplus.com/"}
-https://1d-gtv.rctiplus.id/gtv-sdi-avc1_800000=9-mp4a_96000=1.m3u8?auth_key=1694414326-ebf7a1cbce2c5dbf582e42c63795d798-0-7daaccac9a322b0c1a25b17f799fa02b
+https://1d-gtv.rctiplus.id/gtv-sdi-avc1_800000=9-mp4a_96000=1.m3u8?auth_key=1694414554-1b4733fbfcba92918a7a9ef0437f41cf-0-f6f29e673d0fd3aec552709f5930f04e
 
 #EXTINF:-9 tvg-id="MNC.id" tvg-name="MNC" tvg-logo="https://client.okezone.com/testing/farid/okezonetv/desktop/asset/img/tv/mnctv.png" group-title="1. NASIONAL",MNC TV
 #EXTHTTP:{"Referer":"https://www.rctiplus.com/"}
