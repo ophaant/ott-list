@@ -44,7 +44,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 
 #EXTINF:-12 tvg-id="METROTV.id" tvg-name="METROTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png" group-title="1. NASIONAL",12. METRO TV
 #EXTHTTP:{"Referer":"","User-Agent":""}
-https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_hls_vmx/Metro-TV2-5.m3u8
+https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_hls_vmx/Metro-TV2-avc1_1000000=5.m3u8
 
 #EXTINF:-13 tvg-id="RTV.id" tvg-name="RTV" tvg-logo="http://www.dens.tv/images/channel-logo/22.jpg" group-title="1. NASIONAL",13. RTV
 #EXTHTTP:{"Referer":"","User-Agent":""}
