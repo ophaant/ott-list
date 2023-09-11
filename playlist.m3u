@@ -23,8 +23,8 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.
 https://liveaneviadev.mncnow.id/live/eds/RCTI-DD/sa_hls_vmx/RCTI-DD-avc1_499968=6.m3u8
 
 #EXTINF:-8 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://client.okezone.com/testing/farid/okezonetv/desktop/asset/img/tv/gtv.png" group-title="1. NASIONAL",GTV
-#EXTHTTP:{"Referer":"https://www.rctiplus.com/"}
-https://1d-gtv.rctiplus.id/gtv-sdi-avc1_800000=9-mp4a_96000=1.m3u8?auth_key=1694414554-1b4733fbfcba92918a7a9ef0437f41cf-0-f6f29e673d0fd3aec552709f5930f04e
+#EXTHTTP:{"Referer":""}
+https://liveaneviadev.mncnow.id/live/eds/GTV-HD/sa_hls_vmx/GTV-HD=3.m3u8
 
 #EXTINF:-9 tvg-id="MNC.id" tvg-name="MNC" tvg-logo="https://client.okezone.com/testing/farid/okezonetv/desktop/asset/img/tv/mnctv.png" group-title="1. NASIONAL",MNC TV
 #EXTHTTP:{"Referer":"https://www.rctiplus.com/"}
