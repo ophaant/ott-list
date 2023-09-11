@@ -48,7 +48,8 @@ https://ythls.onrender.com/channel/UCzl0OrB3-ehunyotIQvK77A.m3u8
 
 #EXTINF:-13 tvg-id="RTV.id" tvg-name="RTV" tvg-logo="http://www.dens.tv/images/channel-logo/22.jpg" group-title="1. NASIONAL",13. RTV
 #EXTHTTP:{"Referer":"","User-Agent":""}
-https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_hls_vmx/RTV-avc1_149952=10.m3u8
+http://202.80.222.130/000001/2/ch00000090990000001791/index.m3u8?virtualDomain=000001.live_hls.zte.com
+https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_hls_vmx/RTV.m3u8
 
 #EXTINF:-14 tvg-id="TVONE.id" tvg-name="TVONE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png" group-title="1. NASIONAL",14. TVONE
 #EXTHTTP:{"Referer":"","User-Agent":"","Sec-Fetch-Site":"cross-site"}
