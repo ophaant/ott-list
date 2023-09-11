@@ -40,7 +40,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 
 #EXTINF:-12 tvg-id="METROTV.id" tvg-name="METROTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png" group-title="1. NASIONAL",12. METRO TV
-http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
+https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
 #EXTINF:-13 tvg-id="RTV.id" tvg-name="RTV" tvg-logo="http://www.dens.tv/images/channel-logo/22.jpg" group-title="1. NASIONAL",13. RTV
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
