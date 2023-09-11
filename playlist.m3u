@@ -23,7 +23,7 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.
 https://liveaneviadev.mncnow.id/live/eds/RCTI-DD/sa_hls_vmx/RCTI-DD-avc1_499968=6.m3u8
 
 #EXTINF:-8 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://client.okezone.com/testing/farid/okezonetv/desktop/asset/img/tv/gtv.png" group-title="1. NASIONAL",GTV
-#EXTHTTP:{"Referer":""}
+#EXTHTTP:{"Referer":"","User-agent":""}
 http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 
 #EXTINF:-9 tvg-id="MNC.id" tvg-name="MNC" tvg-logo="https://client.okezone.com/testing/farid/okezonetv/desktop/asset/img/tv/mnctv.png" group-title="1. NASIONAL",MNC TV
