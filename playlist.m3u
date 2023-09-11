@@ -64,7 +64,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1694461000/ei/6
 
 #EXTINF:-17 tvg-id="JAKTV.id" tvg-name="JAKTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_113.jpg" group-title="1. NASIONAL",17. JAKTV
 #EXTHTTP:{"Referer":"","User-Agent":""}
-http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
+https://live-production.secureswiftcontent.com/exp=1694456531~acl=/hls-p/ingest_5415_*/*~hmac=1b64c42a7339881d3fd14f20169a048f156ac2c855fa15ee7c8dbbe1339ad390/hls-p/ingest_5415_720p/index.m3u8
 
 #EXTINF:-18 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="http://www.dens.tv/images/channel-logo/17.jpg" group-title="1. NASIONAL",18. TVRI
 #EXTHTTP:{"Referer":"","User-Agent":""}
