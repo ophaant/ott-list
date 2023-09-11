@@ -20,7 +20,7 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.
 
 #EXTINF:-7 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://www.rctiplus.com/live-assets/image/elements/svgv3/logo-nav-rcti.svg" group-title="1. NASIONAL",RCTI
 #EXTHTTP:{"Referer":""}
-http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
+https://liveaneviadev.mncnow.id/live/eds/RCTI-DD/sa_hls_vmx/RCTI-DD-avc1_499968=6.m3u8
 
 #EXTINF:-8 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://client.okezone.com/testing/farid/okezonetv/desktop/asset/img/tv/gtv.png" group-title="1. NASIONAL",GTV
 #EXTHTTP:{"Referer":"https://www.rctiplus.com/"}
