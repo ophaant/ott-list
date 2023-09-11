@@ -52,7 +52,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_hls_vmx/RTV-avc1_149952=10.m3u8
 
 #EXTINF:-14 tvg-id="TVONE.id" tvg-name="TVONE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png" group-title="1. NASIONAL",14. TVONE
 #EXTHTTP:{"Referer":"","User-Agent":""}
-http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
+https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_hls_vmx/TVOne-2.m3u8
 
 #EXTINF:-15 tvg-id="INEWS.id" tvg-name="INEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="1. NASIONAL",15. INEWS
 #EXTHTTP:{"Referer":"https://www.rctiplus.com/"}
