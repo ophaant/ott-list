@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png" group-title="1. NASIONAL",1. INDOSIAR
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.postimg.cc/BQJhhYCr/INDOSIAR.jpg" group-title="1. NASIONAL",1. INDOSIAR
+#EXTHTTP:{"Referer":"","User-Agent":""}
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
+http://103.166.27.2:800/play/a016
 
 #EXTINF:-2 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png" group-title="1. NASIONAL",2. ANTV
 #EXTHTTP:{"Referer":"","User-Agent":""}
