@@ -3,13 +3,29 @@
 #EXTHTTP:{"Referer":"","User-Agent":""}
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.postimg.cc/BQJhhYCr/INDOSIAR.jpg" group-title="1. NASIONAL",1. INDOSIAR
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.postimg.cc/BQJhhYCr/INDOSIAR.jpg" group-title="1. NASIONAL",1. INDOSIAR (2)
 #EXTHTTP:{"Referer":"","User-Agent":""}
 http://103.166.27.2:800/play/a016
 
-#EXTINF:-2 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png" group-title="1. NASIONAL",2. ANTV
+#EXTINF:-2 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://i.postimg.cc/65gxDx17/ANTV.jpg" group-title="1. NASIONAL",2. ANTV
 #EXTHTTP:{"Referer":"","User-Agent":""}
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch390)/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/L
+
+#EXTINF:-2 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://i.postimg.cc/65gxDx17/ANTV.jpg" group-title="1. NASIONAL",2. ANTV (2)
+#EXTHTTP:{"Referer":"","User-Agent":""}
+http://210.210.155.37/qwr9ew/s/s07/index.m3u8
+
+#EXTINF:-2 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://i.postimg.cc/65gxDx17/ANTV.jpg" group-title="1. NASIONAL",2. ANTV (3)
+#EXTHTTP:{"Referer":"","User-Agent":""}
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165072
+
+#EXTINF:-2 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://i.postimg.cc/65gxDx17/ANTV.jpg" group-title="1. NASIONAL",2. ANTV (4)
+#EXTHTTP:{"Referer":"","User-Agent":""}
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/165072
+
+#EXTINF:-2 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://i.postimg.cc/65gxDx17/ANTV.jpg" group-title="1. NASIONAL",2. ANTV (5)
+#EXTHTTP:{"Referer":"","User-Agent":""}
+http://edge.linknetott.swiftserve.com/channelgroup3/cg314production/ch7/02.m3u8
 
 #EXTINF:-3 tvg-id="MNC.id" tvg-name="MNC" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" group-title="1. NASIONAL",3. MNC TV
 #EXTHTTP:{"Referer":"https://www.rctiplus.com/"}
