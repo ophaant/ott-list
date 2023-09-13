@@ -164,9 +164,16 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 ======================= TVONE =======================
 
-#EXTINF:-15 tvg-id="INEWS.id" tvg-name="INEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="1. NASIONAL",15. INEWS
+======================= INEWS =======================
+#EXTINF:-15 tvg-id="INEWS.id" tvg-name="INEWS" tvg-logo="https://i.postimg.cc/nzbzZQRD/INEWS-TV.jpg" group-title="1. NASIONAL",15. INEWS
 #EXTHTTP:{"Referer":"https://www.rctiplus.com/"}
 http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
+#EXTINF:-15 tvg-id="INEWS.id" tvg-name="INEWS-2" tvg-logo="https://i.postimg.cc/nzbzZQRD/INEWS-TV.jpg" group-title="1. NASIONAL",15. INEWS
+https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+======================= INEWS =======================
 
 #EXTINF:-16 tvg-id="KOMPAS.id" tvg-name="KOMPAS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png" group-title="1. NASIONAL",16. KOMPAS
 #EXTHTTP:{"Referer":"","User-Agent":""}
