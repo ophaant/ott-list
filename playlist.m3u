@@ -195,6 +195,16 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg358production/ch410/02.m3u
 #EXTINF:-17 tvg-id="JAKTV.id" tvg-name="JAKTV" tvg-logo="https://i.postimg.cc/wjNxPFKb/SSN-TIVI-2023-08-24-T152344-503.png" group-title="1. NASIONAL",17. JAKTV
 #EXTHTTP:{"Referer":"","User-Agent":""}
 https://live-production.secureswiftcontent.com/exp=1694456531~acl=/hls-p/ingest_5415_*/*~hmac=1b64c42a7339881d3fd14f20169a048f156ac2c855fa15ee7c8dbbe1339ad390/hls-p/ingest_5415_720p/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
+#EXTINF:-17 tvg-id="JAKTV.id" tvg-name="JAKTV-2" tvg-logo="https://i.postimg.cc/wjNxPFKb/SSN-TIVI-2023-08-24-T152344-503.png" group-title="1. NASIONAL",17. JAKTV
+https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-17 tvg-id="JAKTV.id" tvg-name="JAKTV-3" tvg-logo="https://i.postimg.cc/wjNxPFKb/SSN-TIVI-2023-08-24-T152344-503.png" group-title="1. NASIONAL",17. JAKTV
+https://anv-live-cdn-118.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 ======================= JAKTV =======================
 
 #EXTINF:-18 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="http://www.dens.tv/images/channel-logo/17.jpg" group-title="1. NASIONAL",18. TVRI
