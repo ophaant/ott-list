@@ -152,9 +152,17 @@ http://anevia114.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 https://nxanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 ======================= RTV =======================
 
-#EXTINF:-14 tvg-id="TVONE.id" tvg-name="TVONE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png" group-title="1. NASIONAL",14. TVONE
-#EXTHTTP:{"Referer":"","User-Agent":"","Sec-Fetch-Site":"cross-site"}
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1694459634/ei/khL_ZNgxkpvctQ-fhYWQCA/ip/2001%3A448a%3A4044%3A1d06%3A1da6%3A1259%3A6932%3A8ef7/id/yNKvkPJl-tg.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f6VDnzLzStOFMXGCfNLIeirDKcTitdB3gFta9eFVD-d1kZGqzgc/vprv/1/go/1/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/24007246%2C24362685%2C51000022/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIsBKqwFROm0CxW6sxEosvSlAyMDARX8nwpfMXxOuPwJAiAIMCxDdrEUfvJi7bigMuk0aM6et-uoYUIGu6hO071nEA%3D%3D/file/index.m3u8
+======================= TVONE =======================
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
+#EXTINF:-14 tvg-id="TVONE.id" tvg-name="TVONE" tvg-logo="https://i.postimg.cc/cLj9rW8Q/TVONE.jpg" group-title="1. NASIONAL",14. TVONE
+https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-14 tvg-id="TVONE.id" tvg-name="TVONE-2" tvg-logo="https://i.postimg.cc/cLj9rW8Q/TVONE.jpg" group-title="1. NASIONAL",14. TVONE
+https://nyanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+======================= TVONE =======================
 
 #EXTINF:-15 tvg-id="INEWS.id" tvg-name="INEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="1. NASIONAL",15. INEWS
 #EXTHTTP:{"Referer":"https://www.rctiplus.com/"}
