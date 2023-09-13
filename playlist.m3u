@@ -186,11 +186,16 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch410)/index.m3u
 
 #EXTINF:-16 tvg-id="KOMPAS.id" tvg-name="KOMPAS-3" tvg-logo="https://i.postimg.cc/cJ5HzbYX/KOMPAS-TV.jpg" group-title="1. NASIONAL",16. KOMPAS
 http://210.210.155.37/qwr9ew/s/s104/index.m3u8
+
+#EXTINF:-16 tvg-id="KOMPAS.id" tvg-name="KOMPAS-4" tvg-logo="https://i.postimg.cc/cJ5HzbYX/KOMPAS-TV.jpg" group-title="1. NASIONAL",16. KOMPAS
+http://edge.linknetott.swiftserve.com/channelgroup3/cg358production/ch410/02.m3u8
 ======================= KOMPAS =======================
 
-#EXTINF:-17 tvg-id="JAKTV.id" tvg-name="JAKTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_113.jpg" group-title="1. NASIONAL",17. JAKTV
+======================= JAKTV =======================
+#EXTINF:-17 tvg-id="JAKTV.id" tvg-name="JAKTV" tvg-logo="https://i.postimg.cc/wjNxPFKb/SSN-TIVI-2023-08-24-T152344-503.png" group-title="1. NASIONAL",17. JAKTV
 #EXTHTTP:{"Referer":"","User-Agent":""}
 https://live-production.secureswiftcontent.com/exp=1694456531~acl=/hls-p/ingest_5415_*/*~hmac=1b64c42a7339881d3fd14f20169a048f156ac2c855fa15ee7c8dbbe1339ad390/hls-p/ingest_5415_720p/index.m3u8
+======================= JAKTV =======================
 
 #EXTINF:-18 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="http://www.dens.tv/images/channel-logo/17.jpg" group-title="1. NASIONAL",18. TVRI
 #EXTHTTP:{"Referer":"","User-Agent":""}
