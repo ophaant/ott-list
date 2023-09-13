@@ -58,9 +58,26 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157591
 ======================= RCTI =======================
 
-#EXTINF:-6 tvg-id="TransTV.id" tvg-name="TransTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="1. NASIONAL",6. Trans TV
+======================= TransTV =======================
+#EXTINF:-6 tvg-id="TransTV.id" tvg-name="TransTV" tvg-logo="https://i.postimg.cc/sXxtbmSc/TRANS-TV.jpg" group-title="1. NASIONAL",6. Trans TV
 #EXTHTTP:{"Referer":"","User-Agent":""}
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+
+#EXTINF:-6 tvg-id="TransTV.id" tvg-name="TransTV-2" tvg-logo="https://i.postimg.cc/sXxtbmSc/TRANS-TV.jpg" group-title="1. NASIONAL",6. Trans TV
+#EXTHTTP:{"Referer":"","User-Agent":""}
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch396)/index.m3u8
+
+#EXTINF:-6 tvg-id="TransTV.id" tvg-name="TransTV-2" tvg-logo="https://i.postimg.cc/sXxtbmSc/TRANS-TV.jpg" group-title="1. NASIONAL",6. Trans TV
+http://kuchini.site:8080/multi6741/ab72059e/162503
+
+#EXTINF:-6 tvg-id="TransTV.id" tvg-name="TransTV-2" tvg-logo="https://i.postimg.cc/sXxtbmSc/TRANS-TV.jpg" group-title="1. NASIONAL",6. Trans TV
+https://etus.link/TRANS7
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
+#EXTINF:-6 tvg-id="TransTV.Id" tvg-logo="https://i.postimg.cc/sXxtbmSc/TRANS-TV.jpg" group-title="1. NASIONAL",6. Trans TV
+https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+======================= TransTV =======================
 
 #EXTINF:-7 tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="1. NASIONAL",7. Trans 7
 #EXTHTTP:{"Referer":"","User-Agent":""}
