@@ -125,9 +125,20 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
 ======================= CNBC Indonesia =======================
 
-#EXTINF:-12 tvg-id="METROTV.id" tvg-name="METROTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png" group-title="1. NASIONAL",12. METRO TV
+======================= METROTV =======================
+#EXTINF:-12 tvg-id="METROTV.id" tvg-name="METROTV" tvg-logo="https://i.postimg.cc/XJDqBDxT/METRO-TV.jpg" group-title="1. NASIONAL",12. METRO TV
 #EXTHTTP:{"Referer":"","User-Agent":""}
 https://ythls.onrender.com/channel/UCzl0OrB3-ehunyotIQvK77A.m3u8
+
+#EXTINF:-12 tvg-id="METROTV.id" tvg-name="METROTV-2" tvg-logo="https://i.postimg.cc/XJDqBDxT/METRO-TV.jpg" group-title="1. NASIONAL",12. METRO TV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch394)/index.m3u8
+
+#EXTINF:-12 tvg-id="METROTV.id" tvg-name="METROTV-3" tvg-logo="https://i.postimg.cc/XJDqBDxT/METRO-TV.jpg" group-title="1. NASIONAL",12. METRO TV
+http://210.210.155.37/uq2663/h/h12/index.m3u8
+
+#EXTINF:-12 tvg-id="METROTV.id" tvg-name="METROTV-4" tvg-logo="https://i.postimg.cc/XJDqBDxT/METRO-TV.jpg" group-title="1. NASIONAL",12. METRO TV
+https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
+======================= METROTV =======================
 
 #EXTINF:-13 tvg-id="RTV.id" tvg-name="RTV" tvg-logo="http://www.dens.tv/images/channel-logo/22.jpg" group-title="1. NASIONAL",13. RTV
 #EXTHTTP:{"Referer":"","User-Agent":""}
