@@ -207,9 +207,19 @@ https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 https://anv-live-cdn-118.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 ======================= JAKTV =======================
 
-#EXTINF:-18 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="http://www.dens.tv/images/channel-logo/17.jpg" group-title="1. NASIONAL",18. TVRI
+======================= TVRI =======================
+#EXTINF:-18 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://i.postimg.cc/ZKf3BnVv/TVRI-LOCAL.png" group-title="1. NASIONAL",18. TVRI
 #EXTHTTP:{"Referer":"","User-Agent":""}
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/stream4/streamPlaylist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
+#EXTINF:-18 tvg-id="TVRI.id" tvg-name="TVRI-2" tvg-logo="https://i.postimg.cc/ZKf3BnVv/TVRI-LOCAL.png" group-title="1. NASIONAL",18. TVRI
+https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
+
+#EXTINF:-18 tvg-id="TVRI.id" tvg-name="TVRI-3" tvg-logo="https://i.postimg.cc/ZKf3BnVv/TVRI-LOCAL.png" group-title="1. NASIONAL",18. TVRI
+http://210.210.155.37/qwr9ew/s/s11/index.m3u8
+======================= TVRI =======================
 
 #EXTINF:-19 tvg-id="BERITASATU.id" tvg-name="BERITASATU" tvg-logo="http://www.dens.tv/images/channel-logo/80.jpg" group-title="1. NASIONAL",19. BERITA SATU
 #EXTHTTP:{"Referer":"","User-Agent":""}
