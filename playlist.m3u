@@ -107,9 +107,14 @@ http://210.210.155.37/uq2663/h/h06/index.m3u8
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 ======================= NETTV =======================
 
-#EXTINF:-10 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cnn_new.jpg" group-title="1. NASIONAL",10. CNN Indonesia
+======================= CNN Indonesia =======================
+#EXTINF:-10 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="https://i.postimg.cc/w385KvKx/CNN-ID.jpg" group-title="1. NASIONAL",10. CNN Indonesia
 #EXTHTTP:{"Referer":"","User-Agent":""}
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
+
+#EXTINF:-10 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia-2" tvg-logo="https://i.postimg.cc/w385KvKx/CNN-ID.jpg" group-title="1. NASIONAL",10. CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w412735966_b384000_sleng.m3u8
+======================= CNN Indonesia =======================
 
 #EXTINF:-11 tvg-id="CNBC Indonesia.id" tvg-name="CNBC Indonesia" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo.png" group-title="1. NASIONAL",11. CNBC Indonesia
 #EXTHTTP:{"Referer":"","User-Agent":""}
