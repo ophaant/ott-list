@@ -221,9 +221,14 @@ https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuB
 http://210.210.155.37/qwr9ew/s/s11/index.m3u8
 ======================= TVRI =======================
 
-#EXTINF:-19 tvg-id="BERITASATU.id" tvg-name="BERITASATU" tvg-logo="http://www.dens.tv/images/channel-logo/80.jpg" group-title="1. NASIONAL",19. BERITA SATU
+======================= BERITASATU =======================
+#EXTINF:-19 tvg-id="BERITASATU.id" tvg-name="BERITASATU" tvg-logo="https://i.postimg.cc/LsLTwJY6/BERITA-SATU-WORLD.png" group-title="1. NASIONAL",19. BERITA SATU
 #EXTHTTP:{"Referer":"","User-Agent":""}
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
+#EXTINF:-19 tvg-id="BERITASATU.id" tvg-name="BERITASATU-2" tvg-logo="https://i.postimg.cc/LsLTwJY6/BERITA-SATU-WORLD.png" group-title="1. NASIONAL",19. BERITA SATU
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+======================= BERITASATU =======================
 
 #EXTINF:-20 tvg-id="MOJI.id" tvg-name="MOJI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="1. NASIONAL",20. MOJI
 #EXTHTTP:{"Referer":"","User-Agent":""}
