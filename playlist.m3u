@@ -99,9 +99,13 @@ http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 ======================= GTV =======================
 
-#EXTINF:-9 tvg-id="NET.id" tvg-name="NET" tvg-logo="https://www.netmedia.co.id/desktop/images/logo_white.png" group-title="1. NASIONAL",9. NET TV
-#EXTHTTP:{"Referer":"","User-Agent":""}
-http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
+======================= NETTV =======================
+#EXTINF:-9 tvg-id="NET.id" tvg-name="NET" tvg-logo="https://i.postimg.cc/Sx8T25L3/NET-TV.jpg" group-title="1. NASIONAL",9. NET TV
+http://210.210.155.37/uq2663/h/h06/index.m3u8
+
+#EXTINF:-9 tvg-id="NET.id" tvg-name="NET-2" tvg-logo="https://i.postimg.cc/Sx8T25L3/NET-TV.jpg" group-title="1. NASIONAL",9. NET TV
+http://210.210.155.37/qwr9ew/s/s08/index.m3u8
+======================= NETTV =======================
 
 #EXTINF:-10 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cnn_new.jpg" group-title="1. NASIONAL",10. CNN Indonesia
 #EXTHTTP:{"Referer":"","User-Agent":""}
