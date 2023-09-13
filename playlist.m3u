@@ -80,13 +80,13 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 ======================= TransTV =======================
 
 ======================= Trans7 =======================
-#EXTINF:-7 tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="https://i.postimg.cc/sXxtbmSc/TRANS-TV.jpg" group-title="1. NASIONAL",7. Trans 7
+#EXTINF:-7 tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="https://i.postimg.cc/N0HXbqC7/TRANS-7.jpg" group-title="1. NASIONAL",7. Trans 7
 #EXTHTTP:{"Referer":"","User-Agent":""}
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
-#EXTINF:-7 tvg-id="Trans7.Id" tvg-logo="https://i.postimg.cc/N0HXbqC7/TRANS-7.jpg" group-title="1. NASIONAL",7. Trans 7 (2)
+#EXTINF:-7 tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="https://i.postimg.cc/N0HXbqC7/TRANS-7.jpg" group-title="1. NASIONAL",7. Trans 7
 https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 ======================= Trans7 =======================
 
