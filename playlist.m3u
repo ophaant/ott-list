@@ -140,10 +140,17 @@ http://210.210.155.37/uq2663/h/h12/index.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 ======================= METROTV =======================
 
-#EXTINF:-13 tvg-id="RTV.id" tvg-name="RTV" tvg-logo="http://www.dens.tv/images/channel-logo/22.jpg" group-title="1. NASIONAL",13. RTV
-#EXTHTTP:{"Referer":"","User-Agent":""}
-http://202.80.222.130/000001/2/ch00000090990000001791/index.m3u8?virtualDomain=000001.live_hls.zte.com
-https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_hls_vmx/RTV.m3u8
+======================= RTV =======================
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
+#EXTINF:-13 tvg-id="RTV.id" tvg-name="RTV" tvg-logo="https://i.postimg.cc/sDdXzGXz/RTV.jpg" group-title="1. NASIONAL",13. RTV
+http://anevia114.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-13 tvg-id="RTV.id" tvg-name="RTV-2" tvg-logo="https://i.postimg.cc/sDdXzGXz/RTV.jpg" group-title="1. NASIONAL",13. RTV
+https://nxanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+======================= RTV =======================
 
 #EXTINF:-14 tvg-id="TVONE.id" tvg-name="TVONE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png" group-title="1. NASIONAL",14. TVONE
 #EXTHTTP:{"Referer":"","User-Agent":"","Sec-Fetch-Site":"cross-site"}
